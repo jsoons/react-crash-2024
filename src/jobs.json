@@ -97,6 +97,20 @@
         "contactEmail": "jsoons@gmail.com",
         "contactPhone": "0479766009"
       }
+    },
+    {
+      "id": "be33",
+      "title": "Learning",
+      "type": "Internship",
+      "location": "Ghent",
+      "description": "Active",
+      "salary": "Under $50K",
+      "company": {
+        "name": "UGent",
+        "description": "University",
+        "contactEmail": "a@b",
+        "contactPhone": "123"
+      }
     }
   ]
 }
